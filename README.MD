@@ -8,10 +8,10 @@
 - In "signatures.cpp", line 119, there's a basic example of how to use the scanner. 
   Make sure to change the signature
 - Included in the scanner is a couple of functions for handling the resulting address:
-  1. Add : adds a value to the resulting address
-  2. Sub : subtracts a value from the resulting address
-  3. Rip : gets an address located a couple of opcodes away from the resulting address
-  4. Cast : *required* function which returns the final value and can be casted to specific type
+  - Add : adds a value to the resulting address
+  - Sub : subtracts a value from the resulting address
+  - Rip : gets an address located a couple of opcodes away from the resulting address
+  - Cast : *required* function which returns the final value and can be casted to specific type
 
 # External
 - I will shortly be releasing an external version of this signature scanner
