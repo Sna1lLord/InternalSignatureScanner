@@ -5,6 +5,7 @@
 
 # Usage
 - Make sure to allocate a console in your project if you want the debug logs to be printed, i.e the scan time
+- It's incredibly important that you call "Initialize()" and "Uninitialize()"
 - In "signatures.hpp", line 63, make sure to change the process file name
 - In "signatures.cpp", line 119, there's a basic example of how to use the scanner. 
   Make sure to change the signature
