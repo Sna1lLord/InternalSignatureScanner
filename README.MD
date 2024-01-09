@@ -4,7 +4,7 @@
 - "common.hpp" should be replaced with your own includes header
 
 # Usage
-- This is **not** a complete project and you will have to include it in your own project the way you see fit!
+- This is *not* a complete project and you will have to include it in your own project the way you see fit!
 - Make sure to allocate a console in your project if you want the debug logs to be printed, i.e the scan time
 - It's incredibly important that you call "Initialize()" and "Uninitialize()"
 - In "signatures.hpp", line 63, make sure to change the process file name
